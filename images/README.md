@@ -1,2 +1,0 @@
-# perceptual-difficulty
-pictures
