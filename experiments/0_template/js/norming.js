@@ -154,23 +154,11 @@ function init() {
   var items_target = _.shuffle([
 
 {
-"label": "bottle_glass_2",
+"label": "bottle_glass",
 "item": ["bottle"]
 },
 {
-"label": "bottle glass",
-"item": ["bottle"]
-},
-{
-"label": "bottle_metal_hook_taller",
-"item": ["bottle"]
-},
-{
-"label": "bottle_metal_no_hook",
-"item": ["bottle"]
-},
-{
-"label": "bottle_plastic_all_white",
+"label": "bottle_metal",
 "item": ["bottle"]
 },
 {
@@ -178,27 +166,11 @@ function init() {
 "item": ["bottle"]
 },
 {
-"label": "bottle_wood_swell_bottle_",
-"item": ["bottle"]
-},
-{
 "label": "bowl_glass",
 "item": ["bowl"]
 },
 {
-"label": "bowl_marble_cream",
-"item": ["bowl"]
-},
-{
 "label": "bowl_metal",
-"item": ["bowl"]
-},
-{
-"label": "bowl_plastic_red",
-"item": ["bowl"]
-},
-{
-"label": "bowl_plastic_white",
 "item": ["bowl"]
 },
 {
@@ -214,15 +186,7 @@ function init() {
 "item": ["chair"]
 },
 {
-"label": "chair_velvety",
-"item": ["chair"]
-},
-{
-"label": "chair_wooden_dark",
-"item": ["chair"]
-},
-{
-"label": "chair_wooden",
+"label": "chair_wood",
 "item": ["chair"]
 },
 {
@@ -234,7 +198,7 @@ function init() {
 "item": ["pitcher"]
 },
 {
-"label": "pitcher_plastic_closed_top",
+"label": "pitcher_plastic",
 "item": ["pitcher"]
 },
 {
@@ -242,27 +206,15 @@ function init() {
 "item": ["pitcher"]
 },
 {
-"label": "plate_glass_top_view_1",
-"item": ["plate"]
-},
-{
-"label": "plate_glass_top_view_2",
-"item": ["plate"]
-},
-{
 "label": "plate_metal",
 "item": ["plate"]
 },
 {
-"label": "plate_paper_top_view",
+"label": "plate_paper",
 "item": ["plate"]
 },
 {
-"label": "plate_plastic_top_view",
-"item": ["plate"]
-},
-{
-"label": "plate_wooden_top_view",
+"label": "plate_plastic",
 "item": ["plate"]
 },
 {
@@ -274,24 +226,12 @@ function init() {
 "item": ["ruler"]
 },
 {
-"label": "ruler_plastic_pink",
+"label": "ruler_plastic",
 "item": ["ruler"]
 },
 {
-"label": "ruler_plastic(multiple)",
+"label": "ruler_wooden",
 "item": ["ruler"]
-},
-{
-"label": "ruler_wooden_2",
-"item": ["ruler"]
-},
-{
-"label": "ruler_wooden1",
-"item": ["ruler"]
-},
-{
-"label": "spoon_glass_soup",
-"item": ["spoon"]
 },
 {
 "label": "spoon_metal",
@@ -314,39 +254,19 @@ function init() {
 "item": ["table"]
 },
 {
-"label": "table_plastic",
+"label": "table_wood",
 "item": ["table"]
 },
 {
-"label": "table_wooden_dark",
-"item": ["table"]
-},
-{
-"label": "table_wooden_light",
-"item": ["table"]
-},
-{
-"label": "vase_ceramic_long",
+"label": "vase_ceramic",
 "item": ["vase"]
 },
 {
-"label": "vase_ceramic_short",
+"label": "vase_glass",
 "item": ["vase"]
 },
 {
-"label": "vase_glass_1",
-"item": ["vase"]
-},
-{
-"label": "vase_glass_2",
-"item": ["vase"]
-},
-{
-"label": "vase_metal",
-"item": ["vase"]
-},
-{
-"label": "vase_wooden",
+"label": "vase_wood",
 "item": ["vase"]
 },
 ]);
